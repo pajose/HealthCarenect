@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MedAppJam 1</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="forum">Click To Enter Forum</string>
+    <string name="myEvents">My Events</string>
+    <string name="suggestedLabel">Suggested</string>
+    <string name="first_name">First name: </string>
+    <string name="last_name">Last Name: </string>
+    <string name="email">Email: </string>
+    <string name="createUsername">Username: </string>
+
+</resources>
